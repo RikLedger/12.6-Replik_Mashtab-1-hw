@@ -1,0 +1,1 @@
+# 12.6-Replik_Mashtab-1-hw
