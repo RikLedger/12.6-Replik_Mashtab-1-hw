@@ -87,7 +87,7 @@ SHOW SLAVE STATUS\G;
 ![2-2](./12.6-2-002.jpg)
 #### На мастере: 
 ```sql
-create database hw_12_6_Golikov;
+create database hw_12_6_Gorbachev;
 ```
 #### На слэйве:
 ```sql
